@@ -1,0 +1,74 @@
+body {
+  background-color: #FDF5CA;
+}
+
+.logo {
+  text-align: center;
+}
+
+.img1 {
+  float: left;
+}
+
+.bottom {
+  padding: 30px;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.vl {
+  border-left: 2px solid #B61919;
+  height: 15px;
+  display: inline-block;
+  padding: 2px;
+}
+
+.types {
+  text-align: center;
+}
+
+.footer {
+  background-color: #FF2626;
+  height: 150px;
+  width: 100%;
+  margin-top: 40px;
+  padding: 2px;
+}
+
+.fa-phone-alt {
+  background: white;
+  border-radius: 50%;
+  color: #FF2626;
+  float: left;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.fa-facebook {
+  background: #FF2626;
+  color: white;
+  border-radius: 50%;
+  float: left;
+  margin-left: 400px;
+  margin-top: auto;
+  padding: 5px;
+}
+
+.fa-globe {
+  background: #FF2626;
+  color: white;
+  border-radius: 50%;
+  float: left;
+  margin-left: 550px;
+  margin-bottom: auto;
+}
+
+.text {
+  color: white;
+}
